@@ -1,20 +1,25 @@
-# MenuApp
 
-MenuApp is a user-friendly meal menu application where users can view meal options categorized by their types. This application allows restaurant owners and food enthusiasts to easily manage and share their meal menus.
+# Pokémon Guide
+
+Pokémon Guide is a comprehensive application designed for Pokémon enthusiasts. This application provides detailed information on various Pokémon, including their types and abilities, for enthusiasts to enhance their knowledge and strategy.
 
 ## Features
 
-- **Meal Options**: Users can view various meal options.
-- **Responsive Design**: The application works perfectly on all devices.
-- **User-Friendly Interface**: It offers a simple and intuitive user interface.
-## Used Technologies
-- HTML5
-- CSS3 
-- Bootstrap
-- Javascript
+- **Search Functionality**: Quickly find specific Pokémon by name or type.
+- **Responsive Design**: Optimized for all devices, ensuring a seamless user experience.
+- **User-Friendly Interface**: Offers a simple and easy-to-navigate interface.
+
+## Technologies Used
+
+- **HTML5**: Provides the structure for the application.
+- **CSS3**: Used for styling and layout.
+  - **Flexbox**: For flexible and responsive layouts.
+  - **Grid**: For creating complex and organized layouts.
+- **JavaScript**: Adds interactivity and dynamic content.
+- **Pokémon API**: Fetches real-time data about Pokémon.
 
 ## Preview 
-![Document5-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ec6311bf-6fca-43e5-91d9-3a2706d715f5)
+![PokedexRehberi-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b2380979-9a2d-4477-b142-118f4d60056e)
 
 
 ## For your questions and suggestions
